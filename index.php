@@ -1,3 +1,3 @@
 <?php
-echo "Primeiro projeto no GitHub!!!"
+echo "Primeiro projeto no GitHub!!!";
 ?>
