@@ -15,7 +15,6 @@ window.log = function(){
   		}
 	}
 	else{
-
 	}
 };
 
