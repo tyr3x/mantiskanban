@@ -17,7 +17,6 @@ window.log = function(){
 	else{
 	}
 };
-
 var urlParams;
 (window.onpopstate = function () {
     var match,
