@@ -1,3 +1,3 @@
 <?php
-header("Location: mantilkanban.herokuapp.com/index.php");
+header("Location: mantilkanban.herokuapp.com/index.html");
 ?>
